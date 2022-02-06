@@ -1,2 +1,3 @@
 # FilmProject OOP and ES6
-js project
+js film project
+OOP and ES6
